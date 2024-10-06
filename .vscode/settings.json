@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "iosfwd": "cpp",
+    "unordered_map": "cpp"
+  }
+}
